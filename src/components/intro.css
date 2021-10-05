@@ -1,0 +1,12 @@
+.overlay {
+  background: linear-gradient(to right, #ff4b2b, #ff416c);
+}
+
+.intro {
+  margin: 16rem 14rem;
+  text-align: center;
+}
+p,
+h1 {
+  color: #ffffff;
+}
